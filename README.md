@@ -44,5 +44,5 @@
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/RAMCHARANTEGALA/Weather-App.git
+   git clone https://github.com/RamcharanTegala/Weather-App.git
    cd Weather App
